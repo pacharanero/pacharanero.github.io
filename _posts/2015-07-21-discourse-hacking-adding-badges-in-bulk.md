@@ -3,7 +3,10 @@ title: '#discoursehacking &#8211; adding Badges to Users, in bulk, in Discourse'
 author: pacharanero
 layout: page
 ---
-<pre>emails = [array containing all the email addresses of attendees]
+
+{% highlight ruby %}
+
+emails = [array containing all the email addresses of attendees]
 
 # initialize blank array for User objects
 userlist = [] 
@@ -18,6 +21,6 @@ userlist.flatten! # flatten the array by one level
 # In our case we were assigning the Badge with the id number 108
 userlist.each {|u| BadgeGranter.grant ( Badge.find(108), u ) }
 
-</pre>
+{% highlight ruby %}
 
 Done!

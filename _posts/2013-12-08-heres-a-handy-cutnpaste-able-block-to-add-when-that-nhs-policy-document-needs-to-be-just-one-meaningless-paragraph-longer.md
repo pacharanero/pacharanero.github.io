@@ -2,7 +2,6 @@
 title: 'Here&#8217;s a handy cut&#8217;n&#8217;paste-able block to add when that NHS policy document needs to be just one meaningless paragraph longer&#8230;.'
 author: pacharanero
 layout: post
-permalink: /2013/12/08/heres-a-handy-cutnpaste-able-block-to-add-when-that-nhs-policy-document-needs-to-be-just-one-meaningless-paragraph-longer/
 categories:
   - Uncategorized
 ---

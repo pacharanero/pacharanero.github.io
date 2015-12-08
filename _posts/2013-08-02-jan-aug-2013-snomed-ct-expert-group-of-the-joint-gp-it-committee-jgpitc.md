@@ -2,7 +2,6 @@
 title: 'Jan-Aug 2013 &#8211; SNOMED-CT Expert Group of the Joint GP IT Committee (JGPITC)'
 author: pacharanero
 layout: post
-permalink: /2013/08/02/jan-aug-2013-snomed-ct-expert-group-of-the-joint-gp-it-committee-jgpitc/
 categories:
   - Uncategorized
 ---

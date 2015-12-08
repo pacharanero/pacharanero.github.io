@@ -2,7 +2,6 @@
 title: RCGP Patient Online
 author: pacharanero
 layout: post
-permalink: /2012/12/02/rcgp-patient-online/
 categories:
   - Uncategorized
 ---

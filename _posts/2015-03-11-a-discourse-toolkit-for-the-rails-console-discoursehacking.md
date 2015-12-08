@@ -2,7 +2,6 @@
 title: 'A Discourse Toolkit for the Rails Console #discoursehacking'
 author: pacharanero
 layout: post
-permalink: /2015/03/11/a-discourse-toolkit-for-the-rails-console-discoursehacking/
 categories:
   - Uncategorized
 ---

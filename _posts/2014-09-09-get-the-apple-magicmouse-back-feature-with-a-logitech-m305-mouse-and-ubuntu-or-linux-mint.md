@@ -2,7 +2,6 @@
 title: 'Get the Apple MagicMouse &#8216;back&#8217; feature with a Logitech M305 mouse and Ubuntu or Linux Mint'
 author: pacharanero
 layout: post
-permalink: /2014/09/09/get-the-apple-magicmouse-back-feature-with-a-logitech-m305-mouse-and-ubuntu-or-linux-mint/
 categories:
   - Uncategorized
 ---

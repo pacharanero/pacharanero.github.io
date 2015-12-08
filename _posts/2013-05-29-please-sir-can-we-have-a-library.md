@@ -2,7 +2,6 @@
 title: Please Sir, can we have a Library?
 author: pacharanero
 layout: post
-permalink: /2013/05/29/please-sir-can-we-have-a-library/
 categories:
   - Uncategorized
 ---

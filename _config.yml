@@ -10,4 +10,4 @@ github_username:  pacharanero
 
 # Build settings
 markdown: kramdown
-permalink: title
+permalink: /:title.html

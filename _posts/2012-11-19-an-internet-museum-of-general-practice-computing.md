@@ -2,7 +2,6 @@
 title: An Internet Museum of General Practice Computing?
 author: pacharanero
 layout: post
-permalink: /2012/11/19/an-internet-museum-of-general-practice-computing/
 categories:
   - Uncategorized
 tags:

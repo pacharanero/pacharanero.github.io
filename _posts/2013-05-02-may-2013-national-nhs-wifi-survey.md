@@ -2,7 +2,6 @@
 title: 'May 2013 &#8211; National NHS WiFi survey'
 author: pacharanero
 layout: post
-permalink: /2013/05/02/may-2013-national-nhs-wifi-survey/
 categories:
   - Uncategorized
 ---

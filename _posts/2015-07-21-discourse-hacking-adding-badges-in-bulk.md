@@ -1,7 +1,7 @@
 ---
 title: 'discoursehacking &#8211; adding Badges to Users, in bulk, in Discourse'
 author: pacharanero
-layout: page
+layout: post
 ---
 
 At the time of writing, there's no Admin UI for granting badges in bulk in Discourse. So we have to do it the Old Navy Way, on the Rails console...

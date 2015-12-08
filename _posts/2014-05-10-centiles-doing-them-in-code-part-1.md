@@ -2,7 +2,6 @@
 title: 'child health centiles&#8230; doing them in code part 1'
 author: pacharanero
 layout: post
-permalink: /2014/05/10/centiles-doing-them-in-code-part-1/
 categories:
   - Uncategorized
 ---

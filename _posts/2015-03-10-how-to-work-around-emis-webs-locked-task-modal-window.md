@@ -2,7 +2,6 @@
 title: 'How to work around EMIS Web&#8217;s locked Task modal window'
 author: pacharanero
 layout: post
-permalink: /2015/03/10/how-to-work-around-emis-webs-locked-task-modal-window/
 categories:
   - Uncategorized
 ---

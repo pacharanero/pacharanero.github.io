@@ -2,7 +2,6 @@
 title: When is Open Source not Open Source?
 author: pacharanero
 layout: post
-permalink: /2014/03/06/when-is-open-source-not-open-source/
 categories:
   - Uncategorized
 ---

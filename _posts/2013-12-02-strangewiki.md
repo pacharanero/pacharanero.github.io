@@ -2,7 +2,6 @@
 title: Strangewiki
 author: pacharanero
 layout: post
-permalink: /2013/12/02/strangewiki/
 categories:
   - Uncategorized
 ---

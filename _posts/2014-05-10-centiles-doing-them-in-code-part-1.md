@@ -18,7 +18,7 @@ For each sex and age point (in months), there is a normal distribution of weight
            ((X/M)**L) - 1
     Z = -------------------- (assumes L≠0, which it is for our dataset)
            LS
-    
+
 
 (source: http://www.cdc.gov/growthcharts/percentile\_data\_files.htm)
 
@@ -34,9 +34,11 @@ We also ported the code into JavaScript in order to use a node.js back end.We us
 
 ## Going Backwards
 
-In order to provide context for the centile number produced, we also worte a bit of code that generates *measurements* from a range of centiles. For example, if you have a child that is on the 25th centile for height, it&#8217;s sometimes helpful to know what the heights are for various points on the normal distribution. Sometimes there is only a few centimetres difference between the 3rd centile and the 97th. So we used the inverse function to the centile calculation function to go backwards and work out a range of measurements from the centiles.  
+In order to provide context for the centile number produced, we also wrote a bit of code that generates *measurements* from a range of centiles. For example, if you have a child that is on the 25th centile for height, it&#8217;s sometimes helpful to know what the heights are for various points on the normal distribution. Sometimes there is only a few centimetres difference between the 3rd centile and the 97th. So we used the inverse function to the centile calculation function to go backwards and work out a range of measurements from the centiles.  
 This was straightforward in Python, but for the JavaScript version it was a bit more tricky, mainly because the JStat library is so poorly documented it was hard to find the right functions.
 
 ## What is the MRC License all about?
 
 The Medical Research Council own the copyright on the &#8216;LMS Tables&#8217; (statistical numeric charts which enable calculations that render a centile). They have granted us a free licence to use this data to make a free non-profit web app/mobile app. So, while our application code can be open source, the open source licence does not apply to the data tables. These are freely available elsewhere on the Internet, therefore we have not chosen to restrict distribution of them &#8211; but anyone downloading them must seek permission of the MRC to use them in their own deployment. It&#8217;s not hard and they will probably say yes.
+
+It seems silly to me that the MRC haven't made this Open Data. They continue to spend time and money in producing a licence agreement for each and every user of the data. They have told me that they never refuse any request, and there's nothing special in the data or the license that would preclude the release of the data on an Open Data license. But hey, it's only taxpayer money....

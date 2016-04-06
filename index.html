@@ -4,20 +4,20 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Home</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <img class="avatar" src="/img/avatar.jpg" width="200px" alt="My Avatar">
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <p>
+    Hi! I'm Marcus Baw. I'm a locum GP in the North West, with a fairly unusual portfolio career in Health IT, health hacking and some other cool stuff. I also founded and run <a href="http://www.leighhack.org/">Leigh Hackspace</a>.
+  </p>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p>
+    My Health IT CV is on this site, I've been lucky enough to work in many areas of Health IT and Health Informatics, both in small agile setups and within huge lumbering organisations.
+  </p>
+
+  <p>
+    Feel free to check out my Medical CV and call me if you need a locum GP, although my availability is very limitied these days...
+  </p>
 
 </div>

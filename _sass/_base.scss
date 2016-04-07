@@ -130,7 +130,6 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
 }
 
 code {
@@ -154,8 +153,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(1000px - (#{$spacing-unit} * 2));
+    max-width:         calc(1000px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;

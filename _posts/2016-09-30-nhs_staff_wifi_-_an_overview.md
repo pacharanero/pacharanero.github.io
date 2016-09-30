@@ -1,7 +1,8 @@
 ---
 title: NHS Staff WiFi - an overview
 layout: post
-date: 2016-09-30
+date: 2016-09-30 06:11 BST
+
 ---
 
 I've collected together some information about my work over several years on **WiFi in the NHS**

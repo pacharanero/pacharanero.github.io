@@ -1,7 +1,7 @@
 ---
 title: May 2013 - National NHS WiFi survey
 layout: post
-date: 2016-09-30
+date: 2013-09-30
 ---
 
 Following on from a discussion on NHS Hack Day email discussion group (link), there was a concern that clinicians and other healthcare staff had poor access to WiFi networks, even when such networks were already in place in an establishment (WiFi network access was in some places being reserved for managers/executive staff).

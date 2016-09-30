@@ -1,7 +1,7 @@
 ---
 title: September 2014 - 2nd National NHS WiFi Survey
 layout: post
-date: 2016-09-30
+date: 2014-09-30
 ---
 Following the [2013 WiFi Survey](/may-2013-national-nhs-wifi-survey/), I ran a repeat survey in 2014, to see if there had been any change in the provision of WiFi to clinical NHS staff in the intervening year.
 

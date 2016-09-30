@@ -4,10 +4,6 @@ author: pacharanero
 layout: post
 ---
 
-<iframe src="http://www.bawmedical.co.uk/nhswifi2015/#/" width="100%" height="400" frameBorder="0" text-align="center"></iframe>
-
-<br/>
-
 ## Reveal.js
 
 For a few years now I've been using the JavaScript-based, interoperable presentation platform called [Reveal.js - the HTML presentation framework](http://lab.hakim.se/reveal-js/#/)
@@ -49,7 +45,7 @@ So: I now use Reveal.js with a (mostly) offline git-based workflow, which means 
 * You can present direct from the Internet, so there's no hassle with USB keys and local machines, you just fire up Chrome, hit the URL of your presentation, full-screen it with F11 and get going.
 * Because it's just HTML5, in a browser, you can present via Chromecast to basically anything (see my other blog on this)
 * Your presentations get hosted online for free, and you don't need to cosy up with the Militiary-Industrial-SlideShare-LinkedIN Complex.
-* Because your presentations are natively web-based, you can easily share URLs of your slides before, during, or after your presentation. Great for tweeting the link at an event. 
+* Because your presentations are natively web-based, you can easily share URLs of your slides before, during, or after your presentation. Great for tweeting the link at an event.
 * You can embed a presentation in a web page with an `iframe` (like I have done at the top of this page)
 
 ## Downsides

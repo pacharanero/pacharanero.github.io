@@ -12,7 +12,7 @@ I've been lucky enough to work in many areas of Health IT and Health Informatics
 
 ## Discourse
 
-Through my work running [openhealthhub.org](http://www.openhealthhub.org), the [Digital Health Networks](https://discourse.digitalhealth.net/) forum for the Chief Clinical Information Officers (CCIO) Network, the Health CIO Network, the HSCIC Digital Leaders network, and the [eHealth Ireland](http://www.ehealthireland.ie) network, all of which are [Discourse]() forums, I've become pretty adept at setting up **secure**, **UK-hosted** Discourse forums, and in building and maintaining an active clinical community using web forums.  [Contact me](mailto:marcusbaw@gmail.com) if your organisation or community needs a Discourse forum.
+Through my work running [openhealthhub.org](http://www.openhealthhub.org), the [Digital Health Networks](https://discourse.digitalhealth.net/) forum for the Chief Clinical Information Officers (CCIO) Network, the Health CIO Network, the HSCIC Digital Leaders network, and the [eHealth Ireland](http://www.ehealthireland.ie) network, all of which are [Discourse]() forums, I've become pretty adept at setting up **secure**, **UK-hosted** Discourse forums, and in building and maintaining an active clinical community using web forums.  [Contact me](mailto:marcusbaw@gmail.com) if your organisation or community needs a Discourse forum. 
 
 ## Nonprofits
 

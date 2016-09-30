@@ -1,8 +1,7 @@
 ---
 title: NHS Staff WiFi - an overview
 layout: post
-date: 2016-09-30 06:11 BST
-
+date: 2016-09-30
 ---
 
 I've collected together some information about my work over several years on **WiFi in the NHS**
@@ -28,7 +27,7 @@ For 3 consecutive years (2013, 2014, 2015) I ran an NHS WiFi Survey, asking clin
 The [TL;DR](https://en.wikipedia.org/wiki/Wikipedia:Too_long;_didn%27t_read) is: **In 2013 about 22% of NHS staff who responded to my survey had access to free WiFi. By 2015 this was getting to around 50%. These figures are now probably out of date, but they are actually the only data available on Staff WiFi in the NHS!**
 
 ## 2013
-* Detailed information including the questions used, results, mapping created from the data, and more: [May 2013 National NHS Staff WiFi Survey]({{ site.url }}/may-2013-national-nhs-wifi-survey/)
+* Detailed information including the questions used, results, mapping created from the data, and more: [May 2013 National NHS Staff WiFi Survey](/may-2013-national-nhs-wifi-survey/) sfasfaefa
 * [Discussion about the survey](https://www.networks.nhs.uk/discussion/a-lifeboat-for-nhs-managers/33103965) on NHS Networks
 
 ## 2014
@@ -38,4 +37,4 @@ https://www.youtube.com/watch?v=BcGu7kMHz-I
 * [Slides from this presentation](https://pacharanero.github.io/ehilive_nhswifi2014/#/)
 
 ## 2015
-* The 2015 survey got somewhat swamped by some of my other work - another survey - this time the [Clinical Software Usability Survey](http://usability.digitalhealth.net/). Hence the numbers for the 2015 WiFi Survey were tiny, and probably didn't add much to the existing data. You should probably ignore them. I did a new presentation at EHI Live 2015 with a [summary of the 2013-2015 findings]({{ site.url }}/nhswifi2015/#/)
+* The 2015 survey got somewhat swamped by some of my other work - another survey - this time the [Clinical Software Usability Survey](http://usability.digitalhealth.net/). Hence the numbers for the 2015 WiFi Survey were tiny, and probably didn't add much to the existing data. You should probably ignore them. I did a new presentation at EHI Live 2015 with a [summary of the 2013-2015 findings](https://pacharanero.github.io/nhswifi2015/#/)

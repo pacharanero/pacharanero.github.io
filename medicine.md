@@ -61,21 +61,21 @@ Over the past 10 years working as a hospital doctor I have had front-line experi
 # PREVIOUS MEDICAL POSTS
 (all posts immediately sequential without gaps, unless otherwise indicated)
 
-* **August 2011 - present:** General Practitioner and Emergency Physician, professional locum, various posts, including but not limited to:
- * Bethany Medical Centre, St Helens
- * Seven Brooks Medical Centre, Atherton
- * Brookmill Medical Centre, Leigh
- * Netherley Health Centre, Liverpool
- * The Ash, Liverpool
- * Whiston Hospital Foundation Trust ED
- * Salford Royal Hospital Foundation Trust ED
- * Various secure establishments (contact me for details if required)
+* **August 2011 - present:** General Practitioner and Emergency Physician full-time professional locum, various posts, including but not limited to:
+    * Bethany Medical Centre, St Helens
+    * Seven Brooks Medical Centre, Atherton
+    * Brookmill Medical Centre, Leigh
+    * Netherley Health Centre, Liverpool
+    * Ash Tree Surgery, Liverpool
+    * Whiston Hospital Foundation Trust Emergency Department
+    * Salford Royal Hospital Foundation Trust Emergency Department
+    * Various secure establishments (contact me for details if required)
 
 * **August 2008 – July 2011:** Specialty Registrar in General Practice – North Western Deanery – Wigan GPVTS
- * Dermatology ITP (Prosser White Dermatology Unit, Leigh/Chandler House, Wigan)
- * Paediatrics (Wigan Royal Albert Edward Infirmary)
- * Obstetrics & Gynaecology (Wigan Royal Albert Edward Infirmary)
- * Medicine – MAU and Elderly Care, (Wigan Royal Albert Edward Infirmary)
+    * Dermatology ITP (Prosser White Dermatology Unit, Leigh/Chandler House, Wigan)
+    * Paediatrics (Wigan Royal Albert Edward Infirmary)
+    * Obstetrics & Gynaecology (Wigan Royal Albert Edward Infirmary)
+    * Medicine – MAU and Elderly Care, (Wigan Royal Albert Edward Infirmary)
 
 * **December 2006 – July 2008:** Specialist Registrar in Anaesthesia and Intensive Care Medicine, Mersey Deanery. Full exposure to mixed anaesthetic practice including sub-specialities: Trauma, Emergency, Vascular, Paediatric and ICU/HDU, Cardiothoracic anaesthesia including on- and off-pump CABG, thoracotomy, Neuroanaesthesia and Neuro ICU, Burns/Plastics ICU and Anaesthesia, Ophthalmic, ENT and Obstetric. Based at: Warrington Hospital, The Cardiothoracic Centre Liverpool, Walton Centre for Neurology and Neurosurgery, Royal Liverpool University Hospital, Whiston Hospital
 

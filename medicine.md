@@ -60,6 +60,7 @@ Over the past 10 years working as a hospital doctor I have had front-line experi
 
 # PREVIOUS MEDICAL POSTS
 (all posts immediately sequential without gaps, unless otherwise indicated)
+
 * **August 2011 - present:** General Practitioner and Emergency Physician, professional locum, various posts, including but not limited to:
   * Bethany Medical Centre, St Helens
   * Seven Brooks Medical Centre, Atherton

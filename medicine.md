@@ -62,14 +62,14 @@ Over the past 10 years working as a hospital doctor I have had front-line experi
 (all posts immediately sequential without gaps, unless otherwise indicated)
 
 * **August 2011 - present:** General Practitioner and Emergency Physician, professional locum, various posts, including but not limited to:
-  * Bethany Medical Centre, St Helens
-  * Seven Brooks Medical Centre, Atherton
-  * Brookmill Medical Centre, Leigh
-  * Netherley Health Centre, Liverpool
-  * The Ash, Liverpool
-  * Whiston Hospital Foundation Trust ED
-  * Salford Royal Hospital Foundation Trust ED
-  * Various secure establishments (contact me for details if required)
+ * Bethany Medical Centre, St Helens
+ * Seven Brooks Medical Centre, Atherton
+ * Brookmill Medical Centre, Leigh
+ * Netherley Health Centre, Liverpool
+ * The Ash, Liverpool
+ * Whiston Hospital Foundation Trust ED
+ * Salford Royal Hospital Foundation Trust ED
+ * Various secure establishments (contact me for details if required)
 
 * **August 2008 – July 2011:** Specialty Registrar in General Practice – North Western Deanery – Wigan GPVTS
   * Dermatology ITP (Prosser White Dermatology Unit, Leigh/Chandler House, Wigan)

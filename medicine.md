@@ -24,7 +24,7 @@ permalink: /medicine
 
 ## CURRENT POSTS
 * Locum/Freelance Doctor (2011 - present: multiple roles in GP, ED, Prison, Hospice, and Health IT)
-* Provider of forums platform for Digital Health Intelligence, eHealth Ireland, openhealthhub, Leigh Hackspace, and BCS PHCSG.
+* Provider of private forums platforms for [Digital Health Intelligence](http://discourse.digitalhealth.net), [eHealth Ireland](http://forum.ehealthireland.ie), [openhealthhub](http://www.openhealthhub.org), [Leigh Hackspace](http://discourse.leighhack.org), and [BCS PHCSG](http://forum.phcsg.org).
 * General Practice with a clinical interest in Dermatology and Pain (Acute and Chronic)
 * Clinician Adviser in Health Informatics/GP IT/Computing matters
 * CRB checked
@@ -93,11 +93,11 @@ Over the past 10 years working as a hospital doctor I have had front-line experi
 
 * **January 2015 to present:** Founding Director of [Leigh Hackspace](http://www.leighhack.org/) - a non-profit creative/educational community in Leigh, Lancashire. (voluntary post)
 
-* **October 2013 to October 2016:** Social Media Manager for the Primary Heath Care Specialist Group (PHCSG) of the British Computer Society. This is a voluntary committee post and is held for 3 years.
+* **October 2013 to October 2016:** Social Media Manager for the [Primary Heath Care Specialist Group (PHCSG) of the British Computer Society](http://www.phcsg.org). This is a voluntary committee post and is held for 3 years.
 
-* **September 2012 to present:** Co-director of openGPSoC, a non-profit CIC founded to create and maintain open-source alternatives to current closed-source clinical systems and infrastructure.
+* **September 2012 to present:** Co-director of [openGPSoC](http://www.openhealthhub.org) (since renamed openhealthhub), a non-profit CIC founded to create and maintain open-source alternatives to current closed-source clinical systems and infrastructure.
 
-* **April 2012 to present:** Member of Royal College of General Practitioners Health Informatics Group. The group meets approximately every 2-3 months to discuss important matters pertaining to GP and general healthcare IT. Recent topics have included care.data, GOV.UK Verify, open APIs pertaining to GPSoC-R, and others.
+* **April 2012 to present:** Member of Royal College of General Practitioners [Health Informatics Group](http://www.rcgp.org.uk/clinical-and-research/clinical-resources/practice-management-resources/health-informatics-group.aspx). The group meets approximately every 2-3 months to discuss important matters pertaining to current and future General Practice and healthcare IT. Recent topics have included care.data, GOV.UK Verify, open APIs pertaining to GPSoC-R, and others.
 
 * **July 2009 to July 2011:** Elected GP Trainees’ Representative on Joint Local Negotiating Committee (Acting Staff Side Chairman) – Meeting approximately every 2 months, the LNC negotiates Deanery-wide policies used by the Lead Employing Trusts (Pennine Acute Trust, North Lancashire PCT, and Greater Manchester West MHT). My role as a GP trainees’ representative is to work with the representatives of the other specialities and with the BMA’s representative to ensure that trainees’ terms and conditions are not harmed by changes in Deanery and Lead Employer Policy. I stepped down from this post as I was ineligible to hold it once I completed my training.
 

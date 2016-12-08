@@ -10,11 +10,10 @@ Building on a wide range of clinical experience in settings as diverse as Intens
 
 # Current Roles
 * Chair of the NHS WiFi Programme Advisory Board (ongoing)
-* Committee Member BCS Primary Health
 * Member - RCGP Health Informatics Group
 * Founder - openhealthhub (formerly openGPSoC)
 * Founder & [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) - [Leigh Hackspace](http://www.leighhack.org) - a [Code4Health](https://code4health.org/) community
-* Discourse Wrangler behind the [UK CCIO and CIO Networks' Discourse forums](http://discourse.digitalhealth.net)
+* Discourse 'Wrangler' behind the [UK CCIO and CIO Networks' Discourse forums](http://discourse.digitalhealth.net)
 
 # Projects by Year
 

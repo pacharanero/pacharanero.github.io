@@ -2,7 +2,6 @@
 title: 'Local Referral Maps &#8211; Wigan &#038; Leigh'
 author: pacharanero
 layout: post
-permalink: /2011/08/02/local-referral-maps-wigan-leigh/
 categories:
   - Uncategorized
 ---

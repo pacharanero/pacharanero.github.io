@@ -1,8 +1,8 @@
 # Site settings
-title: Marcus Baw - Baw Medical
+title: Marcus Baw
 email: marcusbaw@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Marcus Baw - locum General Hacktitioner, doctor, pro-am Rubyist, Health IT oddball and Open Source zealot. My blogs range from local politics to tech tips, Health IT to recipes.
+  Marcus Baw - General Hacktitioner, locum GP, pro-am Rubyist, Health IT 'maverick' and Open Source zealot.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pacharanero.github.io" # the base hostname & protocol for your site
 twitter_username: marcus_baw

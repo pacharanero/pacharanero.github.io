@@ -11,11 +11,15 @@
 }
 
 .site-title {
-    font-size: 40px;
+    font-size: 80px;
     line-height: 56px;
-    letter-spacing: 0px;
-    margin-bottom: 0;
+    letter-spacing: -1px;
     float: left;
+    padding: 10px;
+
+    &:hover {
+     text-decoration: none;
+    }
 
     &,
     &:visited {

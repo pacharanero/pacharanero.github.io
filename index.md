@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 
 ---
 
 Hi! I'm Marcus Baw. I'm a locum GP in the North West, with a fairly unusual portfolio career in Health IT, health hacking, Open Source and some other stuff. I also founded and run [Leigh Hackspace](http://www.leighhack.org/) and am a self-taught polyglot developer.
@@ -23,10 +24,10 @@ Nowadays it also provides the **missing open forum** in Health IT. There is a lo
 Leigh Hackspace is a non-profit Makerspace in the town of Leigh, Greater Manchester. I set up Leigh Hackspace with a small group of local makers who felt they wanted a place where they could get together and make things. In just 3 years it's grown from a weekly meetup in a café to a large membership organisation, backed by a Community Interest Company.
 
 
-## [WiFi in the NHS]({{site.baseurl}}/)
+## [WiFi in the NHS]({{site.baseurl}}/nhs_staff_wifi_-_an_overview.html)
 I ran some surveys of WiFi access for NHS Staff in 2013, 2014 and 2015, and highlighted the issue of poor WiFi access for frontline NHS Staff. More recently I am involved in trying to popularise the idea of an Eduroam-like WiFi roaming system across all public sector organisations.
 
-## GP / Emergency Medicine
+## [GP / Emergency Medicine]({site.baseurl}}/medicine)
 Feel free to check out my Medical CV and call me if you need a locum GP, although my availability is **very** limited these days...
 
 ## Supporting Open Source

@@ -5,9 +5,6 @@ layout: post
 categories:
   - Uncategorized
 ---
-<h2 style="text-align: center;">
-  <strong>The World Has Changed</strong>
-</h2>
 
 Knowledge resources that were hitherto provided in books and paper journals are increasingly being accessed using Internet based methods. New sources of knowledge such as UptoDate, Map Of Medicine, NHS CKS, MedicinesComplete, Toxbase, DermNet and many others provide information in ways that could not have existed before the Internet.  E-Learning, e-Portfolios and online communication between peers are vital to the flows of information we need to provide good care. Healthcare apps have approached the level of maturity and safety where they have genuine clinical utility. All these new technologies depend upon Internet connectivity, and increasingly, on mobile devices using WiFi. More importantly, *in order to secure the future development of even better technologies* (like ubiquitous electronic decision support, or a comprehensive, &#8216;access-anywhere&#8217; cradle-to-grave health record) *we have to provide an environment in which these ideas can thrive.*
 

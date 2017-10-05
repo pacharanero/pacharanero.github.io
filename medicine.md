@@ -6,7 +6,7 @@ active: active
 permalink: /medicine
 ---
 
-# Dr. Marcus Jason Baw – Locum GP & Emergency Physician – Curriculum Vitae
+# Dr. Marcus Jason Baw – Locum GP & Emergency Physician
 * **Driving:** Full clean UK driving licence
 * **Immigration Status:** British Born, British Citizen
 * **General Medical Council:** Full Registration 2001, proof of ongoing GMC registration may be checked on the [GMC online portal](http://www.gmc-uk.org/index.asp)

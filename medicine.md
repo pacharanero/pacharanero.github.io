@@ -6,28 +6,28 @@ active: active
 permalink: /medicine
 ---
 
-# Dr. Marcus Jason Baw – Locum GP – Curriculum Vitae
+# Dr. Marcus Jason Baw – Locum GP & Emergency Physician – Curriculum Vitae
 * **Driving:** Full clean UK driving licence
 * **Immigration Status:** British Born, British Citizen
-* **General Medical Council:** Full Registration 2001, ongoing GMC registration may be checked on the [GMC online portal](http://webcache.gmc-uk.org/gmclrmp_enu/start.swe?SWECmd=GotoView&SWEBHWND=&_sn=IQfE1yiTIB17cRzmhOiEvuVox3pPGZMDu5JeafrPNsM-bgPmNrRm98AKwc6SaOL28reCDfNH3X6p1oNi0VWr8axqRLnh4FSMFfl2dbfzHH6nVrq4WRE.hmWk0aAiQ8AlgZTL95LAAqJE4VjdSQH3yJgicSLT-Aiq-WAT8cKaw6ZO4g5-4VqgbzL4T8YZfYW.D226BFdu1lM_&SWEView=GMC+WEB+Doctor+Search&SRN=&SWEHo=webcache.gmc-uk.org&SWETS=1481188925&SWEApplet=GMC+WEB+Health+Provider+Search+Applet)
+* **General Medical Council:** Full Registration 2001, proof of ongoing GMC registration may be checked on the [GMC online portal](http://www.gmc-uk.org/index.asp)
 * **Professional Indemnity:** Medical and Dental Defence Union of Scotland (MDDUS)
 * **Royal College of General Practitioners:** Member, also on Health Informatics Group (Special Interest/Advisory Group)
 * **The Royal College of Anaesthetists:** – Fellow By Examination (From 2012 lapsed member as I am no longer directly involved in clinical Anaesthesia)
 
 ## CLINICAL INTERESTS
-* Digital Health – (Health IT/Computing/ Health Informatics)
-* Systems and performance improvement
+* Emergency Medicine
 * Secure Environment Medicine
 * Dermatology
 * Pain Management (Acute and Chronic)
-* Emergency Medicine
+* Digital Health – (Health Technology, Computing and Health Informatics)
+* Systems and performance improvement
 
 ## CURRENT POSTS
 * Locum/Freelance Doctor (2011 - present: multiple roles in GP, ED, Prison, Hospice, and Health IT)
 * Provider of private forums platforms for [Digital Health Intelligence](http://discourse.digitalhealth.net), [eHealth Ireland](http://forum.ehealthireland.ie), [openhealthhub](http://www.openhealthhub.org), [Leigh Hackspace](http://discourse.leighhack.org), and [BCS PHCSG](http://forum.phcsg.org).
 * General Practice with a clinical interest in Dermatology and Pain (Acute and Chronic)
 * Clinician Adviser in Health Informatics/GP IT/Computing
-* Software Developer (see also my Technical CV)
+* Software Developer (see also my [Technical CV]({{site.url}}/technical))
 * CRB checked
 * Full NOMS and CTC clearance.
 

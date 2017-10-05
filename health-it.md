@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Health IT CV
+title: Health Informatics
 id: health-it
 active: active
 permalink: /health-it
@@ -14,6 +14,11 @@ Building on a wide range of clinical experience in settings as diverse as Intens
 * Founder - openhealthhub (formerly openGPSoC)
 * Founder & [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) - [Leigh Hackspace](http://www.leighhack.org) - a [Code4Health](https://code4health.org/) community
 * Discourse 'Wrangler' behind the [UK CCIO and CIO Networks' Discourse forums](http://discourse.digitalhealth.net)
+
+# Technologies I have experience of:
+* FHIR (Fast Healthcare Interoperability Resource)
+* openEHR (open platform for interoperable data modelling)
+* SNOMED-CT usage and management including clinical assuring forward CTV3 to SNOMED-CT crossmapping tables
 
 # Projects by Year
 

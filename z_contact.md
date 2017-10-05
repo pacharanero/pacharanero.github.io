@@ -12,4 +12,5 @@ permalink: /contact
 * **Email/Hangouts:** [marcusbaw@gmail.com](mailto:marcusbaw@gmail.com)
 * **Skype:** marcus_baw
 * **Twitter:** [@marcus_baw](https://twitter.com/marcus_baw)
-* **LinkedIN:** Please don't! It's terrible!
+* **GitHub:** [pacharanero](https://github.com/pacharanero)
+* **LinkedIN:** I don't use LinkedIn (and neither should you). It's beyond lame.

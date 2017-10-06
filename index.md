@@ -31,4 +31,4 @@ I ran some surveys of WiFi access for NHS Staff in 2013, 2014 and 2015, and high
 Feel free to check out my Medical CV and call me if you need a locum GP, although my availability is **very** limited these days...
 
 ## Supporting Open Source
-Our company Baw Medical supports open source with more than just nice warm thoughts and talk – we support with real actual money too – we donate to open source projects we rate highly or have used in our work. Recent donations: LimeSurvey, PortableApps Platform, Wikipedia, Mozilla, AntennaPod, the Internet Archive.
+My company Baw Medical supports open source with more than just nice warm thoughts and talk – with real actual money too. Baw medical donates to open source projects I rate highly or have used in my work. Recent donations: LimeSurvey, PortableApps Platform, Wikipedia, Mozilla, AntennaPod, the Internet Archive.

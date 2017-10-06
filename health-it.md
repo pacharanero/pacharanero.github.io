@@ -27,7 +27,6 @@ Building on a wide range of clinical experience in settings as diverse as Intens
 * Clinical Adviser to [Professional Record Standards Body](http://theprsb.org/) (PRSB) Child Health Events project
 * Developer for [Endeavour Health Charitable Trust]()'s 'Discovery' Platform (Angular4/Java)
 * Organiser of [NHS Hack Day 15](http://nhshackday.com/previous/events/2017/05/manchester/) held at Federation Manchester, July 2017
-* 
 
 ## 2016
 * Chair of the NHS WiFi Programme Advisory Board

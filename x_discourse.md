@@ -21,7 +21,7 @@ Here's a rundown of the package I offer:
 * Set up SSL (HTTPS) via LetsEncrypt for industry-standard security
 * Set up the required email sending SMTP service
 * Initial configuration of the 'look and feel' of Discourse to your exact requirements - Discourse can be themed/branded to match your existing branding/colourways
-* Setup of aily off-site backup to a separate server (on a _different_ EU-based cloud services provider, for ultimate reassurance)
+* Setup of daily off-site backup to a separate server (on a _different_ EU-based cloud services provider, for ultimate reassurance)
 * Setup of Social logins (any or all of Google, Facebook, Twitter, GitHub, Yahoo according to the needs of your users)
 
 ## Ongoing maintenance
